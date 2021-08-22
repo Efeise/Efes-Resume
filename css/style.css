@@ -129,13 +129,13 @@ a {
 .data-details {
 	width: 90%;
 	margin: auto;
-	padding: 40px 0px;
+	padding: 10px 0px;
 }
 
 .data-details h3{
 	font-size: 1.2vw;
 	color: black;
-	margin: 10px 0px;
+	margin: 15px 0px;
 }
 
 .data-details > span{
